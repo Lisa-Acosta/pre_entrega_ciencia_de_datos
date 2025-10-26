@@ -1,7 +1,9 @@
 📘 Pre-entrega
 
 Autora: Olga Elizabet Acosta
+
 Lenguaje: Python
+
 Entorno: Google Colab
 
 🧩 Descripción General
